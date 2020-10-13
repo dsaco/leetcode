@@ -7,3 +7,8 @@
 [移掉K位数字](https://github.com/dsaco/leetcode/blob/master/402.%20%E7%A7%BB%E6%8E%89K%E4%BD%8D%E6%95%B0%E5%AD%97.md)
 
 [不同字符的最小子序列](https://github.com/dsaco/leetcode/blob/master/1081.%20%E4%B8%8D%E5%90%8C%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%90%E5%BA%8F%E5%88%97.md)
+
+#### 动态规划
+[斐波那契数](https://github.com/dsaco/leetcode/blob/master/509.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.md)
+
+[零钱兑换](https://github.com/dsaco/leetcode/blob/master/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)

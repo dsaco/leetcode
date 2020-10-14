@@ -12,3 +12,5 @@
 [斐波那契数](https://github.com/dsaco/leetcode/blob/master/509.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.md)
 
 [零钱兑换](https://github.com/dsaco/leetcode/blob/master/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
+
+[爬楼梯](https://github.com/dsaco/leetcode/blob/master/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md)

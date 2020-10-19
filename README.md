@@ -17,5 +17,7 @@
 
 [买卖股票的最佳时机](https://github.com/dsaco/leetcode/blob/master/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
 
+[整数拆分](https://github.com/dsaco/leetcode/blob/master/343.%20%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.md)
+
 #### 贪心算法
 [买卖股票的最佳时机 II](https://github.com/dsaco/leetcode/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)

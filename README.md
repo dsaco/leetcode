@@ -19,5 +19,9 @@
 
 [整数拆分](https://github.com/dsaco/leetcode/blob/master/343.%20%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.md)
 
+[不同路径](https://github.com/dsaco/leetcode/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
+
+[跳跃游戏](https://github.com/dsaco/leetcode/blob/master/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
+
 #### 贪心算法
 [买卖股票的最佳时机 II](https://github.com/dsaco/leetcode/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)

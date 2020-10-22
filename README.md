@@ -25,5 +25,9 @@
 
 [分割等和子集](https://github.com/dsaco/leetcode/blob/master/416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
 
+[组合总和 Ⅳ](https://github.com/dsaco/leetcode/blob/master/377.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.md)
+
+[零钱兑换 II](https://github.com/dsaco/leetcode/blob/master/518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.md)
+
 #### 贪心算法
 [买卖股票的最佳时机 II](https://github.com/dsaco/leetcode/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)

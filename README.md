@@ -1,3 +1,7 @@
+#### 二叉树
+
+[翻转二叉树(简单)](https://github.com/dsaco/leetcode/blob/master/226.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
 #### 去重排序
 
 [去除重复字母](https://github.com/dsaco/leetcode/blob/master/316.%20%E5%8E%BB%E9%99%A4%E9%87%8D%E5%A4%8D%E5%AD%97%E6%AF%8D.md)

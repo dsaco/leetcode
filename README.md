@@ -37,5 +37,11 @@
 
 [柱状图中最大的矩形(困难)](https://github.com/dsaco/leetcode/blob/master/84.%20%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
 
+[打家劫舍(简单)](https://github.com/dsaco/leetcode/blob/master/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
+
+[打家劫舍 II(中等)](https://github.com/dsaco/leetcode/blob/master/213.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.md)
+
+[完全平方数(中等)](https://github.com/dsaco/leetcode/blob/master/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
+
 #### 贪心算法
 [买卖股票的最佳时机 II](https://github.com/dsaco/leetcode/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)

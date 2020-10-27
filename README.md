@@ -31,5 +31,7 @@
 
 [最大正方形(中等)](https://github.com/dsaco/leetcode/blob/master/221.%20%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2.md)
 
+[最大矩形(困难)](https://github.com/dsaco/leetcode/blob/master/85.%20%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.md)
+
 #### 贪心算法
 [买卖股票的最佳时机 II](https://github.com/dsaco/leetcode/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)

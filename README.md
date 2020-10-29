@@ -41,6 +41,8 @@
 
 [柱状图中最大的矩形(困难)](https://github.com/dsaco/leetcode/blob/master/84.%20%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
 
+[统计全 1 子矩形(中等)](https://github.com/dsaco/leetcode/blob/master/1504.%20%E7%BB%9F%E8%AE%A1%E5%85%A8%201%20%E5%AD%90%E7%9F%A9%E5%BD%A2.md)
+
 [打家劫舍(简单)](https://github.com/dsaco/leetcode/blob/master/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
 
 [打家劫舍 II(中等)](https://github.com/dsaco/leetcode/blob/master/213.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.md)

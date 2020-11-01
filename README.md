@@ -51,5 +51,12 @@
 
 [最大子序和(简单)](https://github.com/dsaco/leetcode/blob/master/53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
 
+[使用最小花费爬楼梯(简单)](https://github.com/dsaco/leetcode/blob/master/746.%20%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
+
 #### 贪心算法
 [买卖股票的最佳时机 II](https://github.com/dsaco/leetcode/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)
+
+#### 其他
+[区域和检索 - 数组不可变(简单)](https://github.com/dsaco/leetcode/blob/master/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.md)
+
+[判断子序列(简单)](https://github.com/dsaco/leetcode/blob/master/392.%20%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.md)

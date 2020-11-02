@@ -50,6 +50,8 @@
 
 [打家劫舍 II(中等)](https://github.com/dsaco/leetcode/blob/master/213.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.md)
 
+[按摩师(简单)](https://github.com/dsaco/leetcode/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.%20%E6%8C%89%E6%91%A9%E5%B8%88.md)
+
 [完全平方数(中等)](https://github.com/dsaco/leetcode/blob/master/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
 
 [最大子序和(简单)](https://github.com/dsaco/leetcode/blob/master/53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)

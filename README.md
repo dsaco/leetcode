@@ -64,6 +64,10 @@
 
 [除数博弈(简单)](https://github.com/dsaco/leetcode/blob/master/1025.%20%E9%99%A4%E6%95%B0%E5%8D%9A%E5%BC%88.md)
 
+[栅栏涂色(简单)](https://github.com/dsaco/leetcode/blob/master/276.%20%E6%A0%85%E6%A0%8F%E6%B6%82%E8%89%B2.md)
+
+[连续的子数组和(中等)](https://github.com/dsaco/leetcode/blob/master/523.%20%E8%BF%9E%E7%BB%AD%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md)
+
 #### 贪心算法
 [买卖股票的最佳时机 II](https://github.com/dsaco/leetcode/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)
 

@@ -62,6 +62,8 @@
 
 [连续子数组的最大和(简单)](https://github.com/dsaco/leetcode/blob/master/%E5%89%91%E6%8C%87%20Offer%2042.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)
 
+[乘积最大子数组(中等)](https://github.com/dsaco/leetcode/blob/master/152.%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md)
+
 [连续数列(简单)](https://github.com/dsaco/leetcode/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2016.17.%20%E8%BF%9E%E7%BB%AD%E6%95%B0%E5%88%97.md)
 
 [使用最小花费爬楼梯(简单)](https://github.com/dsaco/leetcode/blob/master/746.%20%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
@@ -74,7 +76,7 @@
 
 [统计字典序元音字符串的数目(中等)](https://github.com/dsaco/leetcode/blob/master/1641.%20%E7%BB%9F%E8%AE%A1%E5%AD%97%E5%85%B8%E5%BA%8F%E5%85%83%E9%9F%B3%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%95%B0%E7%9B%AE.md)
 
-[乘积最大子数组(中等)](https://github.com/dsaco/leetcode/blob/master/152.%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md)
+[粉刷房子(中等)](https://github.com/dsaco/leetcode/blob/master/256.%20%E7%B2%89%E5%88%B7%E6%88%BF%E5%AD%90.md)
 
 #### 贪心算法
 [买卖股票的最佳时机 II](https://github.com/dsaco/leetcode/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)

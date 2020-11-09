@@ -76,6 +76,8 @@
 
 [统计字典序元音字符串的数目(中等)](https://github.com/dsaco/leetcode/blob/master/1641.%20%E7%BB%9F%E8%AE%A1%E5%AD%97%E5%85%B8%E5%BA%8F%E5%85%83%E9%9F%B3%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%95%B0%E7%9B%AE.md)
 
+[骑士拨号器(中等)](https://github.com/dsaco/leetcode/blob/master/935.%20%E9%AA%91%E5%A3%AB%E6%8B%A8%E5%8F%B7%E5%99%A8.md)
+
 [粉刷房子(中等)](https://github.com/dsaco/leetcode/blob/master/256.%20%E7%B2%89%E5%88%B7%E6%88%BF%E5%AD%90.md)
 
 #### 贪心算法

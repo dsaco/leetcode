@@ -89,3 +89,5 @@
 [判断子序列(简单)](https://github.com/dsaco/leetcode/blob/master/392.%20%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
 [轰炸敌人(中等)](https://github.com/dsaco/leetcode/blob/master/361.%20%E8%BD%B0%E7%82%B8%E6%95%8C%E4%BA%BA.md)
+
+[最长定差子序列(中等)](https://github.com/dsaco/leetcode/blob/master/1218.%20%E6%9C%80%E9%95%BF%E5%AE%9A%E5%B7%AE%E5%AD%90%E5%BA%8F%E5%88%97.md)

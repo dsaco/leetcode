@@ -80,6 +80,8 @@
 
 [粉刷房子(中等)](https://github.com/dsaco/leetcode/blob/master/256.%20%E7%B2%89%E5%88%B7%E6%88%BF%E5%AD%90.md)
 
+[最长上升子序列(中等)](https://github.com/dsaco/leetcode/blob/master/300.%20%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.md)
+
 #### 贪心算法
 [买卖股票的最佳时机 II](https://github.com/dsaco/leetcode/blob/master/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md)
 

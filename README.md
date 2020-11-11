@@ -95,3 +95,5 @@
 [最长定差子序列(中等)](https://github.com/dsaco/leetcode/blob/master/1218.%20%E6%9C%80%E9%95%BF%E5%AE%9A%E5%B7%AE%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
 [重复至少 K 次且长度为 M 的模式(简单)](https://github.com/dsaco/leetcode/blob/master/1566.%20%E9%87%8D%E5%A4%8D%E8%87%B3%E5%B0%91%20K%20%E6%AC%A1%E4%B8%94%E9%95%BF%E5%BA%A6%E4%B8%BA%20M%20%E7%9A%84%E6%A8%A1%E5%BC%8F.md)
+
+[最简分数(中等)](https://github.com/dsaco/leetcode/blob/master/1447.%20%E6%9C%80%E7%AE%80%E5%88%86%E6%95%B0.md)

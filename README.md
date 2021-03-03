@@ -6,6 +6,8 @@
 
 [二叉树展开为链表(中等)](https://github.com/dsaco/leetcode/blob/master/114.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%95%E5%BC%80%E4%B8%BA%E9%93%BE%E8%A1%A8.md)
 
+[最大二叉树(中等)](https://github.com/dsaco/leetcode/blob/master/654.%20%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
 [K 个一组翻转链表(困难)](https://github.com/dsaco/leetcode/blob/master/25.%20K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 
 #### 去重排序

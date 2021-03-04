@@ -10,6 +10,8 @@
 
 [从前序与中序遍历序列构造二叉树(中等)](https://github.com/dsaco/leetcode/blob/master/105.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
+[从中序与后序遍历序列构造二叉树(中等)](https://github.com/dsaco/leetcode/blob/master/106.%20%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
 [K 个一组翻转链表(困难)](https://github.com/dsaco/leetcode/blob/master/25.%20K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 
 #### 去重排序

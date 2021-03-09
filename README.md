@@ -14,6 +14,8 @@
 
 [寻找重复的子树(中等)](https://github.com/dsaco/leetcode/blob/master/652.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E6%A0%91.md)
 
+[验证二叉搜索树(中等)](https://github.com/dsaco/leetcode/blob/master/98.%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+
 [K 个一组翻转链表(困难)](https://github.com/dsaco/leetcode/blob/master/25.%20K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 
 #### 去重排序

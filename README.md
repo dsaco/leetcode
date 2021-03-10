@@ -18,7 +18,7 @@
 
 [验证二叉搜索树(中等)](https://github.com/dsaco/leetcode/blob/master/98.%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
 
-[二叉搜索树中的插入操作(中等)](https://github.com/dsaco/leetcode/blob/master/701.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%8F%92%E5%85%A5%E6%93%8D%E4%BD%9C)
+[二叉搜索树中的插入操作(中等)](https://github.com/dsaco/leetcode/blob/master/701.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%8F%92%E5%85%A5%E6%93%8D%E4%BD%9C.md)
 
 [删除二叉搜索树中的节点(中等)](https://github.com/dsaco/leetcode/blob/master/450.%20%E5%88%A0%E9%99%A4%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
 
